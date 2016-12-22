@@ -1,5 +1,5 @@
-# Instructions for submission
-
+# OSIsoft Visualization Virtual Hackathon
+## Instructions for submission
 1. Fork this repository
 1. Create a copy the submission folder with your team name
 1. Update instructions.md in this folder with the instructions for usage and installation
@@ -8,11 +8,9 @@
 1. Submit a pull request back to this repo
 
 ## Contributing
-
 Please make sure that you read our general [contribution guidelines][1] and agree with it; it also contains a lot if useful information. Please keep in mind that integrating your contribution may require some adjustments in your code, if this is the case this will be discussed in the Pull Request you open.
 
 ## Licensing
-
 Copyright 2016 OSIsoft, LLC.
 
    Licensed under the Apache License, Version 2.0 (the "License");
